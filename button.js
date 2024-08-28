@@ -1,0 +1,1 @@
+document.querySelector('button').onclick = () => alert('10 Minutos')
